@@ -3,8 +3,8 @@
 Hello! my name is Antonio and I am studying back-end development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👋 Hi, I’m @machadoah
-- 👀 I’m interested in back-end and Data
-- 🌱 I’m currently learning Java and Spring in ONE Oracle and Alura
+- 👀 I’m interested in back-end.
+- 🌱 I’m currently learning Java, Spring and Angular.
 - 🧑🏽‍💻 I am a Systems Analysis and Development student
 <!-- 
 
