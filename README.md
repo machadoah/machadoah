@@ -1,21 +1,29 @@
-### Olá! Me chamo Antonio Henrique !
+### Olá! Me chamo Antonio Henrique ! 
+
+<h1 align="center">Hi 👋, I'm Antonio Henrique Machado</h1> 
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
 **Administration technician** at Etec de Peruíbe
 <br>
 **Commerce Technician** at CPS
 <br>
-**Graduating in Systems Analysis and Development** at Fatec de Praia Grande
+**Graduating in Systems Analysis and Development** at Fatec de Praia Grande <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/machadoah/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/machadoah)
 
-Hello! my name is Antonio and I am studying back-end development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hello! my name is Antonio and I am studying back-end development. 
 
 - 👋 Hi, I'm @machadoah
 - 👀 I'm interested in back-end.
-- 🌱 I'm currently learning Java, Spring and Angular.
+- 🌱 I'm currently learning  **JavaScript, Angular and English.**
 - 🧑🏽‍💻 I'm a Systems Analysis and Development student
-- ⚽ I'm love to watch football
+- ⚽ I'm love to watch football,  **I am passionate about SPFC.**
+- 🔭 I’m currently working on **AI researcher**
+- 👨‍💻 All of my projects are available at [https://keepo.io/machadoah](https://keepo.io/machadoah)
+- 📝 I regularly write articles on [machadoah.medium.com](machadoah.medium.com)
+- 💬 Ask me about **Java, Spring.**
+- 📫 How to reach me **user.antoniohenrique@gmail.com**
 
 Some of the technologies I use ...
 
