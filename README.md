@@ -16,7 +16,7 @@ Hello! my name is Antonio and I am studying back-end development.
 
 - 👋 Hi, I'm @machadoah
 - 👀 I'm interested in back-end.
-- 🌱 I'm currently learning  **JavaScript, Angular and English.**
+- 🌱 I'm currently learning  **JavaScript and English.**
 - 🧑🏽‍💻 I'm a Systems Analysis and Development student
 - ⚽ I'm love to watch football,  **I am passionate about SPFC.**
 - 🔭 I’m currently working on **AI researcher**
