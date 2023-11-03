@@ -21,7 +21,7 @@ Hello! my name is Antonio and I am studying back-end development.
 - ⚽ I'm love to watch football,  **I am passionate about SPFC.**
 - 🔭 I’m currently working on **AI researcher**
 - 👨‍💻 All of my projects are available at [https://keepo.io/machadoah](https://keepo.io/machadoah)
-- 📝 I regularly write articles on [machadoah.medium.com](machadoah.medium.com)
+- 📝 I regularly write articles on [machadoah.medium.com](https://machadoah.medium.com)
 - 💬 Ask me about **Java, Spring.**
 - 📫 How to reach me **user.antoniohenrique@gmail.com**
 
