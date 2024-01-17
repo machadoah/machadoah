@@ -15,15 +15,15 @@
 Hello! my name is Antonio and I am studying back-end development. 
 
 - 👋 Hi, I'm [@machadoah](https://machadoah.vercel.app) 
-- 👀 I'm interested in back-end.
+- 👀 I'm interested in IA.
 - 🌱 I'm currently learning  **Python and English.**
 - 🧑🏽‍💻 I'm a Systems Analysis and Development student
 - ⚽ I'm love to watch football,  **I am passionate about SPFC.**
-- 🔭 I’m currently working on **AI researcher**
+- 🔭 I’m currently working on **AI researcher and intern**
 - 👨‍💻 All of my projects are available at [profile in Keepo](https://keepo.io/machadoah)
 - 📝 I regularly write articles on [Medium](https://machadoah.medium.com)
-- 💬 Ask me about **Java ☕, Spring 🍃 and AI.**
-- 📫 How to reach me **user.antoniohenrique@gmail.com**
+- 💬 Ask me about **AI.**
+<!-- - 📫 How to reach me **user.antoniohenrique@gmail.com** -->
 
 Some of the technologies I use ...
 
