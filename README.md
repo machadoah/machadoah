@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/machadoah/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/machadoah)
 
-Hello! my name is Antonio and I am studying back-end development. 
+Hello! my name is Antonio. 
 
 - 👋 Hi, I'm [@machadoah](https://machadoah.vercel.app) 
 - 👀 I'm interested in IA.
