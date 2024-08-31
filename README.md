@@ -1,6 +1,4 @@
-### Olá! Me chamo Antonio Henrique ! 
-
-<h1 align="center">Hi 👋, I'm Antonio Henrique Machado</h1> 
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/>Hi, I'm Antonio Henrique Machado</h1> 
 <h3 align="center">A passionate developer from Brazil</h3>
 
 **Administration technician** at Etec de Peruíbe
@@ -10,7 +8,10 @@
 **Graduating in Systems Analysis and Development** at Fatec de Praia Grande <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/machadoah/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/machadoah)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://x.com/machadoah)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/551493174938435585
+)
+
 
 Hello! my name is Antonio. 
 
