@@ -81,9 +81,10 @@ Hello! my name is **Antonio**.
   - 🤗 Hugging Face
   - 🦙 Ollama
 
-> [!NOTE] > **_And some more technologies ..._**
-> <br/>
-> <br/>
+
+> [!NOTE] And some more technologies ...
+
+<br/>
 
 > [!TIP]
 > “A picture may be worth a thousand words, a formula is worth a thousand pictures.”<br/>
