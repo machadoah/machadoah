@@ -82,7 +82,8 @@ Hello! my name is **Antonio**.
   - 🦙 Ollama
 
 
-> [!NOTE] And some more technologies ...
+> [!NOTE]
+> And some more technologies ...
 
 <br/>
 
