@@ -15,7 +15,7 @@
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/machadoah/) <!-- 🔵 Linkedin -->
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/machadoah/) <!-- 🐦 Twitter -->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/machadoah/) <!-- 🌸 Instagram -->
 [![Linkedin Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/machadoah) <!-- 🔵 Facebook -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:machadoah@proton.me) <!-- 📧 Email -->
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=Github&logoColor=white)](https://github.com/machadoah) <!-- 🐱 GitHub -->
