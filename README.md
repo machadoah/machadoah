@@ -39,7 +39,7 @@ Some of the technologies I use ...
 
 **🐍 Python expertise:**
 
-- **Python**
+- **🐍 Python expertise:**
   - 📦 Poetry
   - 💨 UV
   - 🐍 Pypi (PIP) 
