@@ -1,10 +1,11 @@
 <!-- 👋 Saudação inicial -->
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/>Hi, I'm Antonio Henrique Machado</h1> 
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/>Hi, I'm Antonio Henrique Machado</h1>
 
 <!-- 📨 Subtitulo -->
 <h3 align="center">A passionate developer from Brazil</h3>
 
 <!-- 📝 Informações pessoais -->
+
 **Administration technician** at Etec de Peruíbe 🏝️
 <br>
 **Commerce Technician** at CPS 💼
@@ -22,31 +23,38 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-00ab6c?style=flat&logo=Medium&logoColor=white)](https://machadoah.medium.com) <!-- 📝 Medium -->
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@machadoah) <!-- 📺 YouTube -->
 
-Hello! my name is **Antonio**. 
+Hello! my name is **Antonio**.
 
-- 👋 Hi, I'm [@machadoah](https://machadoah.vercel.app) 
+- 👋 Hi, I'm [@machadoah](https://machadoah.vercel.app)
 - 👀 I'm interested in IA, ML, SWE and Data Science.
-- 🌱 I'm currently learning  **Python and English.**
+- 🌱 I'm currently learning **Python and English.**
 - 🧑🏽‍💻 I'm a Systems Analysis and Development student.
-- ⚽ I love to watch football,  **I am passionate about SPFC**.
+- ⚽ I love to watch football, **I am passionate about SPFC**.
 - 🔭 I’m currently working on **AI Engineer and SWE**.
 - 👨‍💻 All of my projects are available at [profile in Keepo](https://keepo.io/machadoah)
 - 📝 I regularly write articles on [Medium](https://machadoah.medium.com)
 <!--
 - 💬 Ask me about **AI.**
--->
-Some of the technologies I use ...
+  -->
+  Some of the technologies I use ...
 
 **🐍 Python expertise:**
 
-- **🐍 Python expertise:**
+- **Dependency managers**
+
   - 📦 Poetry
   - 💨 UV
-  - 🐍 PyPI (pip) 
+  - 🐍 PyPI (pip)
+
+- **Linters and formatters**
+  - ⚡️ Ruff
+  - ◼️ Black
+  - 🎱 Flake8
 
 **⚙️ Software development expertise:**
 
 - **Building backend apps**
+
   - ⚡️ FastAPI (And SQLModel ORM)
   - 🧪 SQLAlchemy
   - ⚗️ Alembic
@@ -56,21 +64,27 @@ Some of the technologies I use ...
   - 🐍 Unittest
 
 **🛠️ Infrastructure expertise:**
+
 - **Ops**
   - 🐳 Docker
   - 🐘 PostgreSQL / PgVector
   - 🔢 Vector Databases (ChromaDB, QDrant, Pinecone)
 
 **🧠 AI expertise:**
-- **AI Agents/RAG Frameworks**
-  - 🦙 LlamaIndex
-  - 🦜🔗 Langchain / 🦜🕸️ Langgraph 
 
-> [!NOTE]
-> ***And some more technologies ...***
-<br/>
-<br/>
+- **AI Agents/RAG Frameworks**
+
+  - 🦙 LlamaIndex
+  - 🦜🔗 Langchain / 🦜🕸️ Langgraph
+
+- **LLM**
+  - 🤗 Hugging Face
+  - 🦙 Ollama
+
+> [!NOTE] > **_And some more technologies ..._**
+> <br/>
+> <br/>
 
 > [!TIP]
 > “A picture may be worth a thousand words, a formula is worth a thousand pictures.”<br/>
-> —  Edsger W. Dijkstra
+> — Edsger W. Dijkstra
