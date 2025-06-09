@@ -27,7 +27,8 @@ Hello! my name is **Antonio**.
 
 - 👋 Hi, I'm [@machadoah](https://machadoah.vercel.app)
 - 👀 I'm interested in IA, ML, SWE and Data Science.
-- 🌱 I'm currently learning **Python and English.**
+- 🌱 I'm currently learning **AI Agents Frameworks and English.**
+- 🐹 Currently learning **Golang** just for fun.
 - 🧑🏽‍💻 I'm a Systems Analysis and Development student.
 - ⚽ I love to watch football, **I am passionate about SPFC**.
 - 🔭 I’m currently working on **AI Engineer and SWE**.
@@ -48,9 +49,7 @@ Hello! my name is **Antonio**.
 
 - **Linters and formatters**
   - ⚡️ Ruff
-  - ◼️ Black
-  - 🎱 Flake8
-
+    
 **⚙️ Software development expertise:**
 
 - **Building backend apps**
@@ -80,6 +79,7 @@ Hello! my name is **Antonio**.
 - **LLM**
   - 🤗 Hugging Face
   - 🦙 Ollama
+  - 🧠 OpenAI
 
 
 > [!NOTE]
