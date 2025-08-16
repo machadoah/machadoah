@@ -29,7 +29,8 @@ Hello! my name is **Antonio**.
 - 👀 I'm interested in IA, ML, SWE and Data Science.
 - 🌱 I'm currently learning **AI Agents Frameworks and English.**
 - 🐹 Currently learning **Golang** just for fun.
-- 🧑🏽‍💻 I'm a Systems Analysis and Development student.
+- 🧑🏽‍💻 I have a degree in systems analysis and development.
+- 🧠 I'm a postgraduate student in AI and ML.
 - ⚽ I love to watch football, **I am passionate about SPFC**.
 - 🔭 I’m currently working on **AI Engineer and SWE**.
 - 👨‍💻 All of my projects are available at [profile in Keepo](https://keepo.io/machadoah)
