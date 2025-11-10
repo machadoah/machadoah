@@ -10,7 +10,7 @@
 <br>
 **Commerce Technician** at CPS 💼
 <br>
-**Graduate CST in Systems Analysis and Development** at Fatec de Praia Grande <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+**Graduate CST in Systems Analysis and Development** at Fatec de Praia Grande 🎓
 <br>
 **Postgraduate student in AI and ML** at PUC Minas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -25,70 +25,16 @@
 
 Hello! my name is **Antonio**.
 
-- 👋 Hi, I'm [@machadoah](https://machadoah.vercel.app)
+- 👋 Hi, I'm [@machadoah](https://github.com/machadoah)
 - 👀 I'm interested in IA, ML, Software Architecture and Data Science.
-- 🌱 I'm currently learning **English.**
-<!-- - 🐹 Currently learning **Golang** just for fun. -->
+- 🌱 I'm currently learning **English**, **TS** and **System Design**.
+- 🐹 But sometimes I learn **Golang** just for fun.
 - 🧑🏽‍💻 I have a degree in systems analysis and development.
 - 🧠 I'm a postgraduate student in AI and ML.
 - ⚽ I love to watch football, **I am passionate about SPFC**.
 - 🔭 I’m currently working on **SWE**.
-<!-- - 👨‍💻 All of my projects are available at [profile in Keepo](https://keepo.io/machadoah) -->
 <!-- - 📝 I regularly write articles on [Medium](https://machadoah.medium.com) -->
-<!--
-- 💬 Ask me about **AI.**
-  -->
 
-  <!--
-  Some of the technologies I use ...
-
-**🐍 Python expertise:**
-
-- **Dependency managers**
-
-  - 📦 Poetry
-  - 💨 UV
-  - 🐍 PyPI (pip)
-
-- **Linters and formatters**
-  - ⚡️ Ruff
-    
-**⚙️ Software development expertise:**
-
-- **Building backend apps**
-
-  - ⚡️ FastAPI (And SQLModel ORM)
-  - 🧪 SQLAlchemy
-  - ⚗️ Alembic
-
-- **Building tests**
-  - 🧪 Pytest
-  - 🐍 Unittest
-
-**🛠️ Infrastructure expertise:**
-
-- **Ops**
-  - 🐳 Docker
-  - 🐘 PostgreSQL / PgVector
-  - 🔢 Vector Databases (ChromaDB, QDrant, Pinecone)
-
-**🧠 AI expertise:**
-
-- **AI Agents/RAG Frameworks**
-
-  - 🦙 LlamaIndex
-  - 🦜🔗 Langchain / 🦜🕸️ Langgraph
-
-- **LLM**
-  - 🤗 Hugging Face
-  - 🦙 Ollama
-  - 🧠 OpenAI
-
-
-> [!NOTE]
-> And some more technologies ...
-
--->
 
 <br/>
 
