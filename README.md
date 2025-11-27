@@ -28,11 +28,11 @@ Hello! my name is **Antonio**.
 - 👋 Hi, I'm [@machadoah](https://github.com/machadoah)
 - 👀 I'm interested in IA, ML, Software Architecture and Data Science.
 - 🌱 I'm currently learning **English**, **TS** and **System Design**.
-- 🐹 But sometimes I learn **Golang** just for fun.
 - 🧑🏽‍💻 I have a degree in systems analysis and development.
 - 🧠 I'm a postgraduate student in AI and ML.
 - ⚽ I love to watch football, **I am passionate about SPFC**.
 - 🔭 I’m currently working on **SWE**.
+<!-- - 🐹 But sometimes I learn **Golang** just for fun. -->
 <!-- - 📝 I regularly write articles on [Medium](https://machadoah.medium.com) -->
 
 
