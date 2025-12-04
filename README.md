@@ -1,18 +1,6 @@
-<!-- 👋 Saudação inicial -->
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/>Hi, I'm Antonio Henrique Machado</h1>
+<img width="645" height="370" alt="image" src="https://github.com/user-attachments/assets/0d4e8d5b-3891-4f98-87c7-22b145131927" />
 
-<!-- 📨 Subtitulo -->
-<h3 align="center">A passionate developer from Brazil</h3>
-
-<!-- 📝 Informações pessoais -->
-
-**Administration technician** at Etec de Peruíbe 🏝️
-<br>
-**Commerce Technician** at CPS 💼
-<br>
-**Graduate CST in Systems Analysis and Development** at Fatec de Praia Grande 🎓
-<br>
-**Postgraduate student in AI and ML** at PUC Minas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<br/>
 
 <!-- 👨‍💻 Informações de contato -->
 <br>
@@ -24,17 +12,14 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@machadoah) <!-- 📺 YouTube -->
 
 Hello! my name is **Antonio**.
-
 - 👋 Hi, I'm [@machadoah](https://github.com/machadoah)
 - 👀 I'm interested in IA, ML, Software Architecture and Data Science.
-- 🌱 I'm currently learning **English**, **TS** and **System Design**.
+- 🌱 I'm currently learning **TS** and **System Design**.
 - 🧑🏽‍💻 I have a degree in systems analysis and development.
 - 🧠 I'm a postgraduate student in AI and ML.
 - ⚽ I love to watch football, **I am passionate about SPFC**.
 - 🔭 I’m currently working on **SWE**.
-<!-- - 🐹 But sometimes I learn **Golang** just for fun. -->
-<!-- - 📝 I regularly write articles on [Medium](https://machadoah.medium.com) -->
-
+- 🐹 But sometimes I learn **Golang** just for fun.
 
 <br/>
 
