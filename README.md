@@ -8,8 +8,6 @@ Hello! my name is **Antonio**.
 - 🔭 I’m currently working on **SWE**.
 - 🐹 But sometimes I learn **Golang** just for fun. _(Yes, that's one of my hobbies.)_
 
-**Learn more about me ["here"](https://machadoah.notion.site).**
-
 <br/>
 
 > [!TIP]
