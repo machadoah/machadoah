@@ -1,12 +1,12 @@
-Hello! my name is **Antonio**.
+Hello! My name is **Antonio**.
 
 - 👋 Hi, I'm [@machadoah](https://github.com/machadoah)
-- 👀 I'm interested in ML and Software Architecture.
-- 🌱 I'm currently learning **System Design**.
-- 🧑🏽‍💻 I have a degree in systems analysis and development.
-- 🧠 I'm a postgraduate student in AI and ML.
-- 🔭 I’m currently working on **SWE**.
-- 📚️ But sometimes, just for fun, I enjoy reading. If you’re curious, you can follow me on [Maratona](https://maratona.app/@machadoah).
+- 👀 I'm interested in **Machine Learning, AI, and Software Architecture**.
+- 🌱 I'm currently exploring **System Design, MLOps, and AI Engineering**.
+- 🧑🏽‍💻 I hold a degree in **Systems Analysis and Development** from [Faculdade de Tecnologia do Estado de São Paulo - Praia Grande (FatecPG)](https://fatecpg.cps.sp.gov.br/).
+- 🎓 I also hold a postgraduate degree in **Artificial Intelligence and Machine Learning** from [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx).
+- 🔭 I'm currently working as a **Software Engineer**.
+- 📚️ Outside of tech, I enjoy reading. If you're curious, you can follow me on [Maratona](https://maratona.app/@machadoah).
 
 <br/>
 
