@@ -2,7 +2,7 @@ Hello! My name is **Antonio**.
 
 - 👋 Hi, I'm [@machadoah](https://github.com/machadoah)
 - 👀 I'm interested in **Machine Learning, AI, and Software Architecture**.
-- 🌱 I'm currently exploring **System Design, MLOps, and AI Engineering**.
+- 🌱 I'm currently exploring **System Design and AI Engineering**.
 - 🧑🏽‍💻 I hold a degree in **Systems Analysis and Development** from [Faculdade de Tecnologia do Estado de São Paulo - Praia Grande (FatecPG)](https://fatecpg.cps.sp.gov.br/).
 - 🎓 I also hold a postgraduate degree in **Artificial Intelligence and Machine Learning** from [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx).
 - 🔭 I'm currently working as a **Software Engineer**.
